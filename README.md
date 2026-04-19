@@ -13,11 +13,6 @@
 using different endpoints and he can view the website of the article, the app also utilizes pagination for lazily loading data.
   
 
-  cached_network_image: ^3.3.1
-  webview_flutter: ^4.7.0
-```
-
-
 - Contributions are welcome 💜
 - If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
