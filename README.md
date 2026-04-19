@@ -13,36 +13,7 @@
 -   News app built using news API, the user can display news agencies according to the categories, he can search for a piece of the article
 using different endpoints and he can view the website of the article, the app also utilizes pagination for lazily loading data.
   
-## 🤳 Screens
 
-- **Splash Screen:** Adding a splash screen to your Android app. 
-- **Home Screen:** You start with categories and then you can navigate to the news based on choosing the desired category on the same scaffold.
-- **Drawer Screen:** It is possible to move to the category when we are in the news and vice versa is true.
-- **Details Screen:** When the user clicks on an article, it will go to this screen to show the details of this article and when the user clicks on view article, it will view its link in the user’s default browser.
-- **Search Screen:** It is the same as the previous screen but in appear there is a search bar where the user can write the name of the article to search on it in API, and  it is shown when the user clicks on the search icon in the previous screen.
-
-
-
-
-
-## 📁 Files Structure
-![files-structure](https://github.com/Mohamed-Essam-Mohamed/news_app/assets/152906492/1cafaddc-99e5-4553-a0ea-8395bf40dad9)
-
-
-## 📱 UI
-![ui_news_app](https://github.com/Mohamed-Essam-Mohamed/NEWS-APP/assets/152906492/19d1cde3-ded6-429d-ac94-07f6393cb3c8)
-
-
-
-## 🎥 Video
-https://github.com/Mohamed-Essam-Mohamed/news_app/assets/152906492/41055297-8442-4ee2-9ba4-fd184fee4a1a
-
-
-## 🛠 Dependencies
-
-```pubspec.yaml
-  http: ^1.2.1
-  shimmer: ^3.0.0
   cached_network_image: ^3.3.1
   webview_flutter: ^4.7.0
 ```
